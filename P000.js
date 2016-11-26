@@ -1,5 +1,5 @@
 /**
- * @author tanliang
+ * @author liyan
  */
 
 function onReset() {
