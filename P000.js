@@ -1,5 +1,6 @@
 /**
  * @author liyan
+ * start to learn
  */
 
 function onReset() {
