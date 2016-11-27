@@ -2,6 +2,7 @@
  * @author liyan
  * start to learn
  * hello branch
+ * hello jenkin
  */
 
 function onReset() {
