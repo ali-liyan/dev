@@ -1,5 +1,5 @@
 /**
- * @author tanliang
+ * @author liyan
  */
 var _onlineRank;
 var _houseRank;
